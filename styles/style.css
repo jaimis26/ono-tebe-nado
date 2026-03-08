@@ -82,7 +82,7 @@
 
 .aligned-text_left {
   display: block;
-  padding-top: 5px;
+  padding-top: 15px;
 }
 
 .aligned-text_center {
@@ -222,8 +222,8 @@ article {
   display: grid;
   grid-template-columns: 334px auto;
   grid-template-rows: 596px auto;
-  justify-items: center;
-  padding-top: 85px;
+  justify-items: end;
+  padding-top: 70px;
 }
 
 .about_logo {
